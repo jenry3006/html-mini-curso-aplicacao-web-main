@@ -68,7 +68,6 @@ justify-content-center */
 }
 
 @keyframes images{
-
     0%{
         transform: rotateY(0deg);
     }
